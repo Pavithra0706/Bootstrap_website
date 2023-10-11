@@ -1,0 +1,28 @@
+
+a{
+    text-decoration: underline !important;
+    
+}
+
+.fa{
+    color:blue;
+    
+    
+}
+.social-icons{
+    background-color: gainsboro;
+    padding: 20px 5px;
+    
+    
+}
+
+
+.box-part{
+    
+    background-color: white;
+    margin:20px 20px 20px 20px;
+    width:200px;
+    padding:10px;
+   
+    text-align: center;
+}
